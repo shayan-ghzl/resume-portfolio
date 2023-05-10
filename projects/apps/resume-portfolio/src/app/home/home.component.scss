@@ -1,0 +1,28 @@
+#hero{
+    padding: 0 10%;
+}
+#samples{
+    padding: 0 10%;
+}
+.sample-grid-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 36px;
+    li{
+        flex: 0 0 auto;
+        width: calc(50% - 18px);
+    }
+}
+.image-container{
+    img{
+        width: 100%;
+    }
+}
+@media (max-width:992px){
+    #hero{
+        padding: 0 4%;
+    }
+    #samples{
+        padding: 0 4%;
+    } 
+}

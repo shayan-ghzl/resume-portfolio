@@ -1,0 +1,83 @@
+.spinner {
+    animation: spinner-anim 0.6s infinite linear;
+    border-radius: 50%;
+}
+
+.spinner-mini {
+    width: 24px;
+    height: 24px;
+    background: radial-gradient(farthest-side, var(--forpet-color-tertiary) 94%, #0000) top/3.8px 3.8px no-repeat,
+        conic-gradient(#0000 30%, var(--forpet-color-tertiary));
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 3.8px), #000 0);
+}
+
+.spinner-small {
+    width: 40px;
+    height: 40px;
+    background: radial-gradient(farthest-side, var(--forpet-color-tertiary) 94%, #0000) top/6.4px 6.4px no-repeat,
+        conic-gradient(#0000 30%, var(--forpet-color-tertiary));
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 6.4px), #000 0);
+}
+
+.spinner-medium {
+    width: 56px;
+    height: 56px;
+    background: radial-gradient(farthest-side, var(--forpet-color-tertiary) 94%, #0000) top/9px 9px no-repeat,
+        conic-gradient(#0000 30%, var(--forpet-color-tertiary));
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 9px), #000 0);
+}
+
+.spinner-large {
+    width: 72px;
+    height: 72px;
+    background: radial-gradient(farthest-side, var(--forpet-color-tertiary) 94%, #0000) top/11.5px 11.5px no-repeat,
+        conic-gradient(#0000 30%, var(--forpet-color-tertiary));
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 11.5px), #000 0);
+}
+
+.spinner-huge {
+    width: 88px;
+    height: 88px;
+    background: radial-gradient(farthest-side, var(--forpet-color-tertiary) 94%, #0000) top/14.1px 14.1px no-repeat,
+        conic-gradient(#0000 30%, var(--forpet-color-tertiary));
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 14.1px), #000 0);
+}
+
+@keyframes spinner-anim {
+    100% {
+        transform: rotate(1turn);
+    }
+}
+
+.dots {
+    width: 56px;
+    height: 13.4px;
+    background: radial-gradient(circle closest-side, var(--forpet-color-light) 90%, #0000) 0% 50%,
+        radial-gradient(circle closest-side, var(--forpet-color-light) 90%, #0000) 50% 50%,
+        radial-gradient(circle closest-side, var(--forpet-color-light) 90%, #0000) 100% 50%;
+    background-size: calc(100%/3) 100%;
+    background-repeat: no-repeat;
+    animation: dots-loading 1s infinite linear;
+}
+.dots-small {
+    width: 40px;
+    height: 9.6px;
+ }
+@keyframes dots-loading {
+    33% {
+        background-size: calc(100%/3) 0%, calc(100%/3) 100%, calc(100%/3) 100%;
+    }
+
+    50% {
+        background-size: calc(100%/3) 100%, calc(100%/3) 0%, calc(100%/3) 100%;
+    }
+
+    66% {
+        background-size: calc(100%/3) 100%, calc(100%/3) 100%, calc(100%/3) 0%;
+    }
+}
+
+
+
+
+

@@ -1,0 +1,26 @@
+<header class="component-container">
+    <span>
+        <a [routerLink]="['/home']">
+            <img i18n-alt i18n-src src="./assets/images/logo-fa.png" alt="آقای برنامه نویس">
+        </a>
+    </span>
+    <div class="primary-menu-container">
+        <ul class="primary-menu-wrapper">
+            <li>
+                <a i18n [routerLink]="['/home']">
+                    رزومه من
+                </a>
+            </li>
+            <li>
+                <a i18n href="#about-contact">
+                    تماس با من
+                </a>
+            </li>
+            <li>
+                <a  routerLink="/home">
+                    زبان انگلیسی
+                </a>
+            </li>
+        </ul>
+    </div>
+</header>

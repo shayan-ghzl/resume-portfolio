@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+@import "./assets/scss/fonts.scss";
+// font icons
+@import "./assets/fonts/font-icon/dashicons.scss";
+@import "./assets/fonts/font-icon/icomoon.scss";
+@import "./assets/scss/variables.scss";
+@import "./assets/scss/reset-styles/bootstrap-reboot.scss";
+@import "./assets/scss/btn.scss";
+@import "./assets/scss/form.scss";
+@import "./assets/scss/spinner.scss";
+@import "./assets/scss/utility.scss";
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    margin: 0 !important;
+    padding: 0 !important;
+}

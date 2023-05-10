@@ -4,6 +4,12 @@
   "newProjectRoot": "projects/apps",
   "projects": {
     "resume-portfolio": {
+      "i18n": {
+        "sourceLocale":"fa-IR",
+        "locales": {
+          "en-US":"projects/locale-internationalization/messages-en.xlf"
+        }
+      },
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,6 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "localize":["en-US"],
             "outputPath": "dist/resume-portfolio",
             "index": "projects/apps/resume-portfolio/src/index.html",
             "main": "projects/apps/resume-portfolio/src/main.ts",
