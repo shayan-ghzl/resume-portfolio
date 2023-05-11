@@ -11,19 +11,6 @@
     font-weight: 400;
     font-style: normal
 }
-// ------------------------------
-
-$base-size: 16px; // Default
-
-@function strip-units($number) {
-	@return math.div($number, ($number * 0 + 1));
-}
-
-@function convertPixelToEm($pixels, $context: $base-size) {
-	@return #{math.div(strip-units($pixels), strip-units($context))}em;
-}
-
-// ------------------------------
 .dashicons,
 .dashicons-before:before {
     font-family: dashicons;
@@ -37,9 +24,9 @@ $base-size: 16px; // Default
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    width: convertPixelToEm(20px);
-    height: convertPixelToEm(20px);
-    font-size: convertPixelToEm(20px);
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
     vertical-align: top;
     text-align: center;
     transition: color .1s ease-in

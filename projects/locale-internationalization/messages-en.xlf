@@ -118,6 +118,14 @@
           <context context-type="linenumber">15,17</context>
         </context-group>
       </trans-unit>
+           <trans-unit id="8689190826182296848" datatype="html">
+        <source>/en-US/</source>
+        <target>/fa-IR/</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/shared/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="3421406292262826684" datatype="html">
         <source> زبان انگلیسی </source>
         <target>persian language</target>
@@ -125,6 +133,7 @@
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/shared/components/navbar/navbar.component.html</context>
           <context context-type="linenumber">20,22</context>
         </context-group>
+        <note priority="1" from="description">persian language</note>
       </trans-unit>
     </body>
   </file>

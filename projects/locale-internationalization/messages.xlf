@@ -110,11 +110,20 @@
           <context context-type="linenumber">15,17</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3421406292262826684" datatype="html">
-        <source> زبان انگلیسی </source>
+      <trans-unit id="5796575157493802535" datatype="html">
+        <source>http://127.0.0.1:8080/en-US/</source>
+        <target>http://127.0.0.1:8080/fa-IR/</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/shared/components/navbar/navbar.component.html</context>
-          <context context-type="linenumber">20,22</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5266400622905409372" datatype="html">
+        <source>زبان انگلیسی</source>
+        <target>persian language</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/shared/components/navbar/navbar.component.html</context>
+          <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
     </body>
