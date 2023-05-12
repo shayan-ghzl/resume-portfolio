@@ -32,3 +32,19 @@
         url('../fonts/woff/Samim-Bold-FD.woff') format('woff'),
         url("../fonts/ttf/Samim-Bold-FD.ttf") format("truetype");
 }
+@font-face {
+    font-family: 'Roboto';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: url("../fonts/ttf/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    src: url("../fonts/ttf/Roboto-Bold.ttf") format("truetype");
+}
+
