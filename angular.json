@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "localize":["fa-IR"],
+            "localize":["en-US"],
             "outputPath": "dist/resume-portfolio",
             "index": "projects/apps/resume-portfolio/src/index.html",
             "main": "projects/apps/resume-portfolio/src/main.ts",
