@@ -5,9 +5,9 @@
   "projects": {
     "resume-portfolio": {
       "i18n": {
-        "sourceLocale":"fa-IR",
+        "sourceLocale":"en-US",
         "locales": {
-          "en-US":"projects/locale-internationalization/messages-en.xlf"
+          "fa-IR":"projects/locale-internationalization/messages.xlf"
         }
       },
       "projectType": "application",
@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "localize":["en-US"],
+            "localize":["fa-IR"],
             "outputPath": "dist/resume-portfolio",
             "index": "projects/apps/resume-portfolio/src/index.html",
             "main": "projects/apps/resume-portfolio/src/main.ts",

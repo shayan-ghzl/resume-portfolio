@@ -8,6 +8,6 @@ import { Title } from '@angular/platform-browser';
 })
 export class ResumeComponent {
   constructor(private title:Title){
-    title.setTitle($localize`آقای برنامه نویس-رزومه`);
+    title.setTitle($localize`Resume`);
   }
 }

@@ -8,6 +8,6 @@ import { Title } from '@angular/platform-browser';
 })
 export class HomeComponent {
   constructor(private title:Title){
-    title.setTitle($localize`آقای برنامه نویس-خانه`);
+    title.setTitle($localize`Home`);
   }
 }

@@ -1,23 +1,23 @@
 <header class="component-container">
     <span>
         <a [routerLink]="['/home']">
-            <img i18n-alt i18n-src src="./assets/images/logo-fa.png" alt="آقای برنامه نویس">
+            <img i18n-alt i18n-src src="./assets/images/logo-en.png" alt="website logo">
         </a>
     </span>
     <div class="primary-menu-container">
         <ul class="primary-menu-wrapper">
             <li>
-                <a i18n [routerLink]="['/home']">
-                    رزومه من
+                <a i18n routerLink="/resume">
+                    my resume
                 </a>
             </li>
             <li>
                 <a i18n href="#about-contact">
-                    تماس با من
+                    contact me
                 </a>
             </li>
             <li>
-                <a i18n i18n-href href="http://127.0.0.1:8080/en-US/">زبان انگلیسی</a>
+                <a i18n i18n-href href="http://127.0.0.1:8080/fa-IR/">persian language</a>
             </li>
         </ul>
     </div>
