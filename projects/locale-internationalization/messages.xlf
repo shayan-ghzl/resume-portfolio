@@ -2,12 +2,16 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en-US" datatype="plaintext" original="ng2.template">
     <body>
-      <trans-unit id="7771433345966419096" datatype="html">
-        <source>Online business support and personalization.</source>
-        <target>پشتیبانی و شخصی سازی کسب و کار آنلاین.</target>
+      <trans-unit id="2547756348530497105" datatype="html">
+        <source>ltr</source>
+        <target>rtl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">4</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3623929471320649234" datatype="html">
@@ -78,12 +82,20 @@
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2547756348530497105" datatype="html">
-        <source>ltr</source>
-        <target>rtl</target>
+      <trans-unit id="6225479667965964460" datatype="html">
+        <source>Create a well-designed portfolio ^7000</source>
+        <target>یک نمونه کار با طراحی خوب ایجاد کنید ^7000</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">1</context>
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5683810219171850960" datatype="html">
+        <source>Online business support and personalization ^10000</source>
+        <target>پشتیبانی و شخصی سازی کسب و کار آنلاین ^10000</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.ts</context>
+          <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3104756996535713637" datatype="html">

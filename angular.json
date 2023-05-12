@@ -39,7 +39,10 @@
             "styles": [
               "projects/apps/resume-portfolio/src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "projects/apps/resume-portfolio/src/assets/js/particles.js",
+              "projects/apps/resume-portfolio/src/assets/js/typed.min.js"
+            ]
           },
           "configurations": {
             "production": {

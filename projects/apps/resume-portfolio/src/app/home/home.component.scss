@@ -1,6 +1,53 @@
 #hero{
     padding: 0 10%;
      background-color: var(--portfolio-color-secondary);
+     position: relative;
+     color: var(--bs-white);
+     .message{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-80%);
+        &[dir="ltr"]{
+            left: 10%;
+        }
+        &[dir="rtl"]{
+            right: 10%;
+        }
+        h1{
+            display: inline-block;
+            font-size: 3.5rem;
+        }
+        h4{
+            font-size: 1.7rem;
+            margin-top: 24px;
+        }
+        .btn{
+            --bs-btn-padding-x: 1.75rem;
+            --bs-btn-padding-y: .6rem;
+            --bs-btn-border-radius: 1px;
+            margin-top: 48px;
+        }
+     }
+}
+// particle.js style
+:host{
+    ::ng-deep{
+        #hero{
+            height: 80vh;
+            z-index: 1;
+             canvas{
+                position: absolute;
+                width: 100% !important;
+                height: 100% !important;
+                top: 0;
+                left: 0;
+                z-index: -1;
+             }
+             .typed-cursor{
+                font-size: 40px;
+            }
+        }
+    }
 }
 #samples{
     padding: 0 10%;
