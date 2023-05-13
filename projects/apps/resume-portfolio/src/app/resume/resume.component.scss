@@ -150,14 +150,16 @@ width: 100%;
 
 }
 .summery{
-    p{
-        margin: 0;
-    }
-}
-.experience{
+    width: 100%;
     margin-top: var(--box-spacing);
     padding-top: var(--box-spacing);
     border-top: 0.5px solid var(--box-border-color);
+    p{
+        margin: 0 0 4px 0;
+    }
+}
+.experience{
+
 
 
     .experience-container{
