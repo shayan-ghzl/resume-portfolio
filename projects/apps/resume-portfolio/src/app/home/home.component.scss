@@ -56,7 +56,7 @@
     }
 }
 #samples{
-    padding: 0 10% 5rem 6%;
+    padding: 0 10% 5rem 10%;
      background-color: var(--portfolio-color-secondary);
 }
 .sample-grid-wrapper{
@@ -110,10 +110,20 @@
         .btn{
             right: 10%;
         }
+        .contact{
+            svg, .dashicons{
+                margin-right: 6px;
+            }
+        }
     }
     &[dir="rtl"]{
         .btn{
             left: 10%;
+        }
+        .contact{
+            svg, .dashicons{
+                margin-left: 6px;
+            }
         }
     }
     .title{
@@ -128,13 +138,11 @@
         fill: var(--bs-link-color);
         width: 16px;
         height: 16px;
-        margin-left: 6px;
     }
     .dashicons{
         width: 16px;
         height: 16px;
         font-size: 16px;
-        margin-left: 6px;
     }
     ul{
         li{
@@ -173,6 +181,12 @@
         transform: translateY(-60%);
         left: 4%;
         right: 4%;
+    }
+    #about-contact[dir=ltr] .btn{
+        right: 4%;
+    }
+    #about-contact[dir=rtl] .btn{
+        left: 4%;
     }
 }
 @media (max-width: 860px){
