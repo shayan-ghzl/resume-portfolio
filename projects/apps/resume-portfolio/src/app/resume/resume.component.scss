@@ -260,6 +260,14 @@ width: 100%;
         }
     }
 }
+.download-resume-btn{
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    z-index: 1;
+    --bs-btn-font-size:14px;
+    --bs-btn-border-radius:2px;
+}
 .component-container[dir="ltr"]{
     .contact{
         margin-left: auto;
@@ -312,19 +320,27 @@ width: 100%;
     .experience .sample-url a{
         margin: 0 0 0 3px;
     }
-}
-@media print {
-    :host, .component-container{
-        padding: 0;
-        box-shadow: none;
+    .download-resume-btn{
+        right: unset;
+        left: 8px;
     }
 }
 @media (max-width: 576px) {
     :host{
-        padding: 0;
+        padding: 51px 0 0 0;
     }
     .component-container{
         padding: 4%;
         box-shadow: none;
+    }
+}
+@media print {
+    :host, .component-container{
+        max-width: 100%;
+        padding: 0;
+        box-shadow: none;
+    }
+    .download-resume-btn{
+        display: none;
     }
 }
