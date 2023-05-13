@@ -1,45 +1,88 @@
-<app-navbar></app-navbar>
+<app-navbar #navbar (scrollToSection)="contact.scrollIntoView()"></app-navbar>
 <section id="hero">
     <div i18n-dir class="message" dir="ltr">
             <h1></h1>
             <h4 i18n>With ten years of experience, I lived and breathed the web.</h4>
-            <a i18n href="#samples" class="btn btn-primary">
+            <button type="button" i18n class="btn btn-primary" (click)="samples.scrollIntoView()">
                 View portfolio
-            </a>
+            </button>
     </div>
 </section>
-<section id="samples">
+<section id="samples" #samples>
         <div class="sample-grid-container">
             <ul class="sample-grid-wrapper">
                 <li>
-                    <div class="image-container">
-                        <img i18n-alt src="./assets/images/portfolio-1.png" alt="portfolio image">
-                    </div>
-                    <h6 i18n>Forpet</h6>
+                    <a href="https://shayan-ghzl.github.io/forpet-angular/" target="_blank">
+                        <div class="image-container">
+                            <img i18n-alt src="./assets/images/forpet-portfolio.png" alt="portfolio image">
+                        </div>
+                        <h6 i18n>Forpet</h6>
+                    </a>
                 </li>
                 <li>
-                    <div class="image-container">
-                        <img i18n-alt src="./assets/images/portfolio-2.png" alt="portfolio image">
-                    </div>
-                    <h6 i18n>Forpet</h6>
+                    <a href="https://shayan-ghzl.github.io/raap-angular/" target="_blank">
+                        <div class="image-container">
+                            <img i18n-alt src="./assets/images/raap-portfolio.png" alt="portfolio image">
+                        </div>
+                        <h6 i18n>Raap Yadak</h6>
+                    </a>
                 </li>
                 <li>
-                    <div class="image-container">
-                        <img i18n-alt src="./assets/images/portfolio-3.png" alt="portfolio image">
-                    </div>
-                    <h6 i18n>Forpet</h6>
+                    <a href="https://github.com/shayan-ghzl/timche" target="_blank">
+                        <div class="image-container">
+                            <img i18n-alt src="./assets/images/timche-portfolio.png" alt="portfolio image">
+                        </div>
+                        <h6 i18n>Timche Zargary</h6>
+                    </a>
                 </li>
                 <li>
-                    <div class="image-container">
-                        <img i18n-alt src="./assets/images/portfolio-4.png" alt="portfolio image">
-                    </div>
-                    <h6 i18n>Forpet</h6>
+                    <a href="http://safaeinuts.com/fanpet" target="_blank">
+                        <div class="image-container">
+                            <img i18n-alt src="./assets/images/fanpet-portfolio.png" alt="portfolio image">
+                        </div>
+                        <h6 i18n>Fanpet</h6>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)"    >
+                        <div class="image-container">
+                            <img i18n-alt src="./assets/images/kharchang-portfolio.png" alt="portfolio image">
+                        </div>
+                        <h6 i18n>Kharchang Accounting</h6>
+                    </a>
                 </li>
             </ul>
         </div>
 </section>
-<section id="about-contact">
-    <!-- تمام راه های تماس و پروفایل های من
-    تصویر من و درباره من -->
+<section i18n-dir id="about-contact" #contact dir="ltr">
+    <div class="summery">
+        <h5 class="title" i18n>SUMMERY</h5>
+        <div>
+            <p i18n>i am shayan ghazali</p>
+        </div>
+    </div>
+    <div class="contact">
+        <h5 class="title" i18n>CONTACT</h5>
+        <div>
+            <ul>
+                <li>
+                    <a href="https://goo.gl/maps/9WdFEG3gKYnrcmFq7" target="_blank" i18n><i class="dashicons dashicons-location"></i>Isfahan, Iran</a>
+                </li>
+                <li>
+                    <a href="tel:+989353728642"><i class="dashicons dashicons-phone"></i><span>+98 (935) 372 8642</span></a>
+                </li>
+                <li>
+                    <a href="mailto:shayan97.tti@gmail.com"><i class="dashicons dashicons-email"></i>shayan97.tti@gmail.com</a>
+                </li>
+                <li>
+                    <a href="https://github.com/shayan-ghzl" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="23.408" viewBox="0 0 24 23.408"><path d="M12,0A12,12,0,0,0,8.207,23.387c.6.111.793-.261.793-.577V20.576C5.662,21.3,4.967,19.16,4.967,19.16A3.178,3.178,0,0,0,3.634,17.4c-1.089-.745.083-.729.083-.729a2.519,2.519,0,0,1,1.839,1.237,2.554,2.554,0,0,0,3.492,1,2.546,2.546,0,0,1,.762-1.6C7.145,17,4.343,15.971,4.343,11.374A4.644,4.644,0,0,1,5.579,8.153,4.316,4.316,0,0,1,5.7,4.977S6.7,4.655,9,6.207a11.374,11.374,0,0,1,6.009,0c2.291-1.552,3.3-1.23,3.3-1.23a4.312,4.312,0,0,1,.118,3.176,4.632,4.632,0,0,1,1.235,3.221c0,4.609-2.807,5.624-5.479,5.921A2.868,2.868,0,0,1,15,19.517V22.81c0,.319.192.694.8.576A12,12,0,0,0,12,0Z"/></svg>https://github.com/shayan-ghzl</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <button type="button" i18n class="btn btn-dark" (click)="navbar.scrollIntoView()">
+        <i class="dashicons dashicons-arrow-up-alt2"></i>
+    </button>
+    <!-- تصویر من و درباره من -->
 </section>
 <app-footer></app-footer>

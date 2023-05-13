@@ -7,12 +7,18 @@
         position: absolute;
         top: 50%;
         transform: translateY(-80%);
-        &[dir="ltr"]{
-            left: 10%;
-        }
-        &[dir="rtl"]{
-            right: 10%;
-        }
+        left: 10%;
+        right: 10%;
+
+        // &[dir="ltr"]{
+        //     left: 10%;
+        //     right: 10%;
+        // }
+        // &[dir="rtl"]{
+        //     left: 10%;
+        //     right: 10%;
+        // }
+
         h1{
             display: inline-block;
             font-size: 3.5rem;
@@ -50,7 +56,7 @@
     }
 }
 #samples{
-    padding: 0 10%;
+    padding: 0 10% 5rem 6%;
      background-color: var(--portfolio-color-secondary);
 }
 .sample-grid-wrapper{
@@ -60,18 +66,163 @@
     li{
         flex: 0 0 auto;
         width: calc(50% - 18px);
+
+        &:hover{
+            .image-container{
+                border-color: var(--bs-gray-500);
+            }
+        }
+    }
+    h6{
+        color: var(--bs-gray-400);
+        text-align: center;
+        margin: 8px 0 0 0;
     }
 }
 .image-container{
+    border: 1px solid var(--bs-gray-700);
+    padding: 1.2rem;
+    border-radius: 1px;
+    transition: border-color 0.3s;
     img{
         width: 100%;
     }
 }
-@media (max-width:992px){
+#about-contact{
+    padding: 2rem 10%;
+    background-color: var(--portfolio-color-secondary); 
+    border-top: 1px solid var(--bs-gray-800);
+    position: relative;
+    color:var(--bs-gray-200);
+    font-size: 13px;
+    --bs-link-color:var(--bs-gray-400);
+    --bs-link-hover-color:var(--bs-white);
+    .btn{
+        --bs-btn-border-color:var(--bs-gray-800);
+        --bs-btn-hover-border-color:var(--bs-gray-800);
+        --bs-btn-bg:var(--bs-black);
+        --bs-btn-border-radius:4px;
+        position: absolute;
+        top: 0;
+        transform: translateY(-50%);
+    }
+    &[dir="ltr"]{
+        .btn{
+            right: 10%;
+        }
+    }
+    &[dir="rtl"]{
+        .btn{
+            left: 10%;
+        }
+    }
+    .title{
+        color: var(--portfolio-color-primary);
+        margin: 0 0 16px 0;
+       }
+}
+.contact{
+    font-weight: 700;
+
+    svg{
+        fill: var(--bs-link-color);
+        width: 16px;
+        height: 16px;
+        margin-left: 6px;
+    }
+    .dashicons{
+        width: 16px;
+        height: 16px;
+        font-size: 16px;
+        margin-left: 6px;
+    }
+    ul{
+        li{
+            &:not(:last-child){
+                margin-bottom: 2px;
+            }
+            &:nth-child(2) a{
+                display: flex;
+                span{
+                    direction: ltr;
+                    display: block;
+                }
+            }
+            a:hover{
+                svg{
+                    fill: var(--bs-link-hover-color);
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px){
+}
+@media (max-width: 992px){
     #hero{
         padding: 0 4%;
     }
     #samples{
-        padding: 0 4%;
+        padding: 0 4% 5rem 4%;
     } 
+    #about-contact{
+        padding: 2rem 4%;
+    }
+    #hero .message{
+        transform: translateY(-60%);
+        left: 4%;
+        right: 4%;
+    }
+}
+@media (max-width: 860px){
+    .sample-grid-wrapper{
+        gap: 24px;
+    }
+    .sample-grid-wrapper li{
+        width: calc(50% - 12px);
+    }
+    .image-container{
+        padding: 1rem;
+    }
+    #hero .message h1{
+        font-size: 3rem;
+    }
+    // particle.js style
+    :host{
+        ::ng-deep{
+            #hero{
+                .typed-cursor{
+                    font-size: 40px;
+                }
+            }
+        }
+    }
+    #hero .message h4{
+        font-size: 1.5rem;
+    }
+    #hero .message .btn{
+        --bs-btn-padding-x: 1.5rem;
+        --bs-btn-padding-y: .5rem;
+        --bs-btn-font-size: 0.95rem;
+    }
+    .sample-grid-wrapper h6{
+        font-size: 0.85rem;
+        margin: 16px 0 0 0;
+    }
+}
+@media (max-width: 680px){
+    .sample-grid-wrapper li{
+        width: 100%;
+    }
+    .sample-grid-wrapper h6{
+        font-size: 0.8rem;
+        margin: 10px 0 0 0;
+    }
+
+}
+@media (max-width: 576px){
+    .image-container{
+        padding: 0.8rem;
+    }
 }

@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, EventEmitter, Output } from '@angular/core';
 
 @Component({
   selector: 'app-navbar',
@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./navbar.component.scss']
 })
 export class NavbarComponent {
+  @Output() scrollToSection = new EventEmitter<string>();
+  constructor(private el: ElementRef) { }
+  scrollIntoView(){
+    this.el.nativeElement.scrollIntoView();
+  }
 
 }

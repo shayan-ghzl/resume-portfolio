@@ -28,6 +28,9 @@
             margin: 0 0 6px 0;
             color: var(--blue-color);
     }
+    strong{
+        white-space: nowrap;
+    }
 }
 .information{
 
@@ -74,9 +77,12 @@
         &:not(:last-child){
             margin-bottom: 2px;
         }
-        &:nth-child(2){
-            direction: ltr;
-            display: block;
+        &:nth-child(2) a{
+            display: flex;
+            span{
+                direction: ltr;
+                display: block;
+            }
         }
     }
  }
@@ -108,6 +114,7 @@ width: 100%;
             display: flex;
             align-items: center;
             justify-content: space-between;
+            flex-wrap: wrap;
         }
     }
     .date{
@@ -117,15 +124,17 @@ width: 100%;
     }
 }
 .language{
-width: 100%;
+    width: 100%;
     margin-top: var(--box-spacing);
     padding-top: var(--box-spacing);
     border-top: 0.5px solid var(--box-border-color);
     
     ul{
         display: flex;
+        flex-wrap: wrap;
         li{
-             margin-left: 6px;
+            white-space: nowrap;
+            margin-left: 6px;
              &::after{
                 content: ',';
                 margin-right: 3px;
@@ -182,6 +191,7 @@ width: 100%;
         display: flex;
         justify-content: space-between;
         margin-bottom: var(--project-inner-spacing);
+        flex-wrap: wrap;
         >div:last-child{
             color: var(--secondary-color);
             font-size: var(--font-size-small);
@@ -203,6 +213,7 @@ width: 100%;
         display: flex;
         align-items: flex-end;
         margin-bottom: 2px;
+        flex-wrap: wrap;
         h5{
              font-size: var(--project-title-font-size); 
              margin: 0;
@@ -218,11 +229,14 @@ width: 100%;
         }
     }
     .sample-url{
+        display: flex;
         color: var(--secondary-color);
         font-size: var(--font-size-small);
         font-weight: 700;
         a{
             margin: 0 3px 0 0;
+            direction: ltr;
+            display: block;
         }
     }
     .features{
@@ -247,7 +261,6 @@ width: 100%;
     }
 }
 .component-container[dir="ltr"]{
-    font-family: 'Roboto', Roboto;
     .contact{
         margin-left: auto;
         margin-right: 0;
@@ -303,6 +316,15 @@ width: 100%;
 @media print {
     :host, .component-container{
         padding: 0;
+        box-shadow: none;
+    }
+}
+@media (max-width: 576px) {
+    :host{
+        padding: 0;
+    }
+    .component-container{
+        padding: 4%;
         box-shadow: none;
     }
 }

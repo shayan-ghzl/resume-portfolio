@@ -4,7 +4,7 @@
             <img i18n-alt i18n-src src="./assets/images/logo-en.png" alt="website logo">
         </a>
     </span>
-    <div class="primary-menu-container">
+    <div class="primary-menu-container" [appDropdown]="dropdownCtrl" #dropdown="exportDropdown">
         <ul class="primary-menu-wrapper">
             <li>
                 <a i18n routerLink="/resume">
@@ -12,7 +12,7 @@
                 </a>
             </li>
             <li>
-                <a i18n href="#about-contact">
+                <a i18n href="javascript:void(0)" (click)="scrollToSection.emit('about-contact')">
                     contact me
                 </a>
             </li>
@@ -21,4 +21,7 @@
             </li>
         </ul>
     </div>
+    <button type="button" class="btn hamburger-btn" [appDropdownCtrl]="dropdown" #dropdownCtrl="exportDropdownCtrl">
+        <i class="dashicons dashicons-menu"></i>
+    </button>
 </header>

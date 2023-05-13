@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './shared/components/navbar/navbar.component';
 import { FooterComponent } from './shared/components/footer/footer.component';
 import { ResumeComponent } from './resume/resume.component';
+import { DropdownCtrlDirective, DropdownDirective } from './shared/directives/dropdown.directive';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,9 @@ import { ResumeComponent } from './resume/resume.component';
     HomeComponent,
     NavbarComponent,
     FooterComponent,
-    ResumeComponent
+    ResumeComponent,
+    DropdownDirective,
+    DropdownCtrlDirective
   ],
   imports: [
     BrowserModule,

@@ -120,14 +120,14 @@
     --bs-border-radius-pill: 50rem;
 
     // forpet variables using in style reset
-    --forpet-heading-font-family: "Samim", Samim;
+    // --forpet-heading-font-family: "Samim", Samim;
     --forpet-heading-font-weight: 700;
     --forpet-heading-line-height: 1.2;
 
     // bootstrap variables using in style reset
     // --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberatforpet Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     // --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberatforpet Mono", "Courier New", monospace;
-    --bs-font-sans-serif: "Samim", Samim;
+    // --bs-font-sans-serif: "Samim", Samim;
     --bs-font-monospace: "monospace", monospace;
     --bs-body-color: #212529;
     --bs-body-bg: #fff;
@@ -141,12 +141,16 @@
     --bs-highlight-bg: #fff3cd;
 }
 
-.rtl{
+html[dir="rtl"]{
     --bs-body-text-align: right;
+    --bs-font-sans-serif: "Samim", Samim;
+    --forpet-heading-font-family: "Samim", Samim;
 }
 
-.ltr{
+html[dir="ltr"]{
     --bs-body-text-align: left;
+    --bs-font-sans-serif: "Roboto", Roboto;
+    --forpet-heading-font-family: "Roboto", Roboto;
 }
 
 @media (prefers-color-scheme: dark) {}
