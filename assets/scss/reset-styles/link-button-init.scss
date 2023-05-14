@@ -1,0 +1,72 @@
+/* --------------link-------------- */
+
+a {
+    color: var(--bs-link-color);
+    text-decoration: underline;
+}
+
+a:hover {
+    color: var(--bs-link-hover-color);
+}
+
+a:not([href]):not([class]),
+a:not([href]):not([class]):hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+a>code {
+    color: inherit;
+}
+
+/* --------------button-------------- */
+button {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    text-transform: none;
+    border-radius: 0;
+    margin: 0;
+}
+
+button:focus:not(:focus-visible) {
+    outline: 0;
+}
+
+[role=button] {
+    cursor: pointer;
+}
+
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+    -webkit-appearance: button;
+}
+
+button:not(:disabled),
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled) {
+    cursor: pointer;
+}
+
+::-webkit-inner-spin-button {
+    height: auto;
+}
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+}
+
+::file-selector-button {
+    -webkit-appearance: button;
+}
+
+::-webkit-file-upload-button {
+    font: inherit;
+}
+
+::file-selector-button {
+    font: inherit;
+}

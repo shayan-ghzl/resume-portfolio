@@ -1,0 +1,39 @@
+body {
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+hr {
+  color: inherit;
+}
+
+mark {
+  background-color: var(--bs-highlight-bg);
+}
+
+pre code {
+  color: inherit;
+}
+
+code {
+  color: var(--bs-code-color);
+}
+
+kbd {
+  color: var(--bs-body-bg);
+  background-color: var(--bs-body-color);
+}
+
+caption {
+  color: #6c757d;
+}
+
+thead,
+tbody,
+tfoot,
+tr,
+td,
+th {
+  border-color: inherit;
+}
