@@ -831,8 +831,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6634608463306712878" datatype="html">
-        <source>Sometimes I had to make changes in the Primeng components and also have a few pull requests to Primeng repository on the github and during this project I went through various challenges in Angular.</source>
-        <target>گاهی اوقات مجبور می شدم در کامپوننت های Primeng تغییراتی ایجاد کنم و همچنین چند pull request در پروژه Primeng در github داشتم و در طول این پروژه چالش های مختلفی را در Angular پشت سر گذاشتم.</target>
+        <source>Sometimes I had to make changes in Primeng components and I also have several pull requests in the Primeng project on github and during this project I went through various challenges in Angular.</source>
+        <target>گاهی مجبور بودم در کامپوننت های Primeng تغییراتی ایجاد کنم و همچنین چند pull request در پروژه Primeng در github دارم و در طول این پروژه چالش های مختلفی را در Angular پشت سر گذاشتم.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
           <context context-type="linenumber">207</context>

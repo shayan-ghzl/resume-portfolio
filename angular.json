@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "localize":["en-US"],
+            "localize":["fa-IR"],
             "outputPath": "dist/resume-portfolio",
             "index": "projects/apps/resume-portfolio/src/index.html",
             "main": "projects/apps/resume-portfolio/src/main.ts",
@@ -34,7 +34,9 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "projects/apps/resume-portfolio/src/favicon.ico",
-              "projects/apps/resume-portfolio/src/assets"
+              "projects/apps/resume-portfolio/src/assets",
+              "projects/apps/resume-portfolio/src/manifest.webmanifest",
+              "projects/apps/resume-portfolio/src/manifest.webmanifest"
             ],
             "styles": [
               "projects/apps/resume-portfolio/src/styles.scss"
@@ -42,7 +44,9 @@
             "scripts": [
               "projects/apps/resume-portfolio/src/assets/js/particles.js",
               "projects/apps/resume-portfolio/src/assets/js/typed.min.js"
-            ]
+            ],
+            "serviceWorker": true,
+            "ngswConfigPath": "projects/apps/resume-portfolio/ngsw-config.json"
           },
           "configurations": {
             "production": {
@@ -100,7 +104,9 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "projects/apps/resume-portfolio/src/favicon.ico",
-              "projects/apps/resume-portfolio/src/assets"
+              "projects/apps/resume-portfolio/src/assets",
+              "projects/apps/resume-portfolio/src/manifest.webmanifest",
+              "projects/apps/resume-portfolio/src/manifest.webmanifest"
             ],
             "styles": [
               "projects/apps/resume-portfolio/src/styles.scss"

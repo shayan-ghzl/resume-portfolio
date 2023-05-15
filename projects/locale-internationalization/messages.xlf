@@ -370,14 +370,6 @@
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2821179408673282599" datatype="html">
-        <source>Home</source>
-        <target>خانه</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.ts</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="6225479667965964460" datatype="html">
         <source>Create a well-designed portfolio ^7000</source>
         <target>یک نمونه کار با طراحی خوب ایجاد کنید ^7000</target>
@@ -830,9 +822,9 @@
           <context context-type="linenumber">206</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6634608463306712878" datatype="html">
-        <source>Sometimes I had to make changes in the Primeng components and also have a few pull requests to Primeng repository on the github and during this project I went through various challenges in Angular.</source>
-        <target>گاهی اوقات مجبور می شدم در کامپوننت های Primeng تغییراتی ایجاد کنم و همچنین چند pull request در پروژه Primeng در github داشتم و در طول این پروژه چالش های مختلفی را در Angular پشت سر گذاشتم.</target>
+      <trans-unit id="8454591934505195812" datatype="html">
+        <source>Sometimes I had to make changes in Primeng components and I also have several pull requests in the Primeng project on github and during this project I went through various challenges in Angular.</source>
+        <target>گاهی مجبور بودم در کامپوننت های Primeng تغییراتی ایجاد کنم و همچنین چند pull request در پروژه Primeng در github دارم و در طول این پروژه چالش های مختلفی را در Angular پشت سر گذاشتم.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
           <context context-type="linenumber">207</context>
@@ -1278,7 +1270,7 @@
           <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8685220912832916269" datatype="html">
+      <trans-unit id="5361402339929476393" datatype="html">
         <source>فارسی/English Language</source>
         <target>فارسی/English زبان</target>
         <context-group purpose="location">
