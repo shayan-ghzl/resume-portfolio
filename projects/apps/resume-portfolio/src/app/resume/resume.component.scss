@@ -1,348 +1,348 @@
-:host{
-    --font-size-small:9px;
-    --primary-color:#000;
-    --secondary-color:var(--bs-gray-700);
-    --blue-color:#2271b1;
-    --box-border-color:#2271b180;
-    --box-spacing:8px;
-    --project-inner-spacing:8px;
-    --project-title-font-size:13px;
-    --title-font-size:14px;
-    --border-color:var(--blue-color);
+:host {
+    --font-size-small: 9px;
+    --primary-color: #000;
+    --secondary-color: var(--bs-gray-700);
+    --blue-color: #2271b1;
+    --box-border-color: #2271b180;
+    --box-spacing: 8px;
+    --project-inner-spacing: 8px;
+    --project-title-font-size: 13px;
+    --title-font-size: 14px;
+    --border-color: var(--blue-color);
     display: block;
     background-color: var(--bs-gray-300);
     font-size: 11px;
-    color: var( --primary-color);
+    color: var(--primary-color);
     padding: 36px 0;
 }
-.component-container{
+.component-container {
     --bs-link-hover-color: var(--blue-color);
     --bs-link-color: var(--blue-color);
     max-width: 900px;
     margin: 0 auto;
     padding: 26px 36px;
     background-color: var(--bs-white);
-  
-    .title{
+
+    .title {
         font-size: var(--title-font-size);
-            margin: 0 0 6px 0;
-            color: var(--blue-color);
+        margin: 0 0 6px 0;
+        color: var(--blue-color);
     }
-    strong{
+    strong {
         white-space: nowrap;
     }
 }
-.information{
+.information {
 
     display: flex;
     flex-wrap: wrap;
-    >div{
+    >div {
         flex: 0 0 auto;
     }
 
 }
-.header{
+.header {
 
-    h1{
+    h1 {
         font-size: 24px;
     }
-    h3{
+    h3 {
         font-size: 18px;
     }
 }
-.contact{
+.contact {
 
-     font-size: 10px;
-     font-weight: 700;
+    font-size: 10px;
+    font-weight: 700;
     margin-right: auto;
-    .title{
-       display: none;
+    .title {
+        display: none;
     }
- svg{
-     display: none;
-     fill: var(--blue-color);
-    width: 16px;
-    height: 16px;
-    margin-left: 6px;
- }
- .dashicons{
-    display: none;
-    width: 16px;
-    height: 16px;
-    font-size: 16px;
-    margin-left: 6px;
- }
- ul{
-    li{
-        &:not(:last-child){
-            margin-bottom: 2px;
-        }
-        &:nth-child(2) a{
-            display: flex;
-            span{
-                direction: ltr;
-                display: block;
+    svg {
+        display: none;
+        fill: var(--blue-color);
+        width: 16px;
+        height: 16px;
+        margin-left: 6px;
+    }
+    .dashicons {
+        display: none;
+        width: 16px;
+        height: 16px;
+        font-size: 16px;
+        margin-left: 6px;
+    }
+    ul {
+        li {
+            &:not(:last-child) {
+                margin-bottom: 2px;
+            }
+            &:nth-child(2) a {
+                display: flex;
+                span {
+                    direction: ltr;
+                    display: block;
+                }
             }
         }
     }
- }
 }
-.skills{
+.skills {
     width: 100%;
     margin-top: var(--box-spacing);
     padding-top: var(--box-spacing);
     border-top: 0.5px solid var(--box-border-color);
-    ul{
+    ul {
         display: flex;
         flex-wrap: wrap;
-        li{
-             margin-left: 6px;
-             &::after{
+        li {
+            margin-left: 6px;
+            &::after {
                 content: ',';
                 margin-right: 3px;
-             }
+            }
         }
     }
 }
-.education{
-width: 100%;
+.education {
+    width: 100%;
     margin-top: var(--box-spacing);
     padding-top: var(--box-spacing);
     border-top: 0.5px solid var(--box-border-color);
-    ul{
-        li{
+    ul {
+        li {
             display: flex;
             align-items: center;
             justify-content: space-between;
             flex-wrap: wrap;
         }
     }
-    .date{
+    .date {
         color: var(--secondary-color);
         font-size: var(--font-size-small);
         font-weight: 700;
     }
 }
-.language{
+.language {
     width: 100%;
     margin-top: var(--box-spacing);
     padding-top: var(--box-spacing);
     border-top: 0.5px solid var(--box-border-color);
-    
-    ul{
+
+    ul {
         display: flex;
         flex-wrap: wrap;
-        li{
+        li {
             white-space: nowrap;
             margin-left: 6px;
-             &::after{
+            &::after {
                 content: ',';
                 margin-right: 3px;
-             }
+            }
         }
     }
 }
-.description{
+.description {
 
     margin-top: var(--box-spacing);
     padding-top: var(--box-spacing);
     border-top: 0.5px solid var(--box-border-color);
 
 }
-.summery{
+.summery, .achievements {
     width: 100%;
     margin-top: var(--box-spacing);
     padding-top: var(--box-spacing);
     border-top: 0.5px solid var(--box-border-color);
-    p{
+    p {
         margin: 0 0 4px 0;
     }
 }
-.experience{
+.experience {
 
 
 
-    .experience-container{
+    .experience-container {
         margin-top: 20px;
         padding-right: 4px;
     }
-    .experience-wrapper{
-        >li{
-            
+    .experience-wrapper {
+        >li {
+
             position: relative;
             border-right: 2px solid var(--blue-color);
             padding-right: 20px;
-            &:not(:last-child){
+            &:not(:last-child) {
                 margin-bottom: 20px;
             }
 
-    &::before{
-        content: '';
-        display: block;
-        width: 10px;
-        height: 10px;
-        border-radius: 50%;
-        background-color: var(--blue-color);
-        position: absolute;
-        right: -6px;
-        top:0;
-    }
+            &::before {
+                content: '';
+                display: block;
+                width: 10px;
+                height: 10px;
+                border-radius: 50%;
+                background-color: var(--blue-color);
+                position: absolute;
+                right: -6px;
+                top: 0;
+            }
         }
     }
-    .project-header{
+    .project-header {
         display: flex;
         justify-content: space-between;
         margin-bottom: var(--project-inner-spacing);
         flex-wrap: wrap;
-        >div:last-child{
+        >div:last-child {
             color: var(--secondary-color);
             font-size: var(--font-size-small);
             font-weight: 700;
         }
     }
-    .about{
+    .about {
         margin-bottom: var(--project-inner-spacing);
-        p{
+        p {
             margin: 0;
         }
     }
-    .date-period{
-        span{
+    .date-period {
+        span {
             display: block;
         }
     }
-    .project-name{
+    .project-name {
         display: flex;
         align-items: flex-end;
         margin-bottom: 2px;
         flex-wrap: wrap;
-        h5{
-             font-size: var(--project-title-font-size); 
-             margin: 0;
-             line-height: 1;
+        h5 {
+            font-size: var(--project-title-font-size);
+            margin: 0;
+            line-height: 1;
         }
-        span{
+        span {
             color: var(--secondary-color);
-             font-size: var(--font-size-small); 
-             font-weight: 700;
+            font-size: var(--font-size-small);
+            font-weight: 700;
             line-height: 1;
             margin-right: 8px;
             margin-bottom: 1px;
         }
     }
-    .sample-url{
+    .sample-url {
         display: flex;
         color: var(--secondary-color);
         font-size: var(--font-size-small);
         font-weight: 700;
-        a{
+        a {
             margin: 0 3px 0 0;
             direction: ltr;
             display: block;
         }
     }
-    .features{
+    .features {
         margin-bottom: var(--project-inner-spacing);
-        ul{
+        ul {
             list-style: disc;
             padding-right: 15px !important;
         }
     }
-    .position{
+    .position {
         display: flex;
         margin-bottom: 2px;
-        p{
+        p {
             margin: 0 6px 0 0;
         }
     }
-    .technology{
-                display: flex;
-        nav{
+    .technology {
+        display: flex;
+        nav {
             margin: 0 6px 0 0;
         }
     }
 }
-.download-resume-btn{
+.download-resume-btn {
     position: absolute;
     top: 8px;
     right: 8px;
     z-index: 1;
-    --bs-btn-font-size:14px;
-    --bs-btn-border-radius:2px;
+    --bs-btn-font-size: 14px;
+    --bs-btn-border-radius: 2px;
 }
-.component-container[dir="ltr"]{
-    .contact{
+.component-container[dir="ltr"] {
+    .contact {
         margin-left: auto;
         margin-right: 0;
     }
-    .skills ul li{
+    .skills ul li {
         margin-left: 0;
         margin-right: 6px;
     }
-    .skills ul li::after{
+    .skills ul li::after {
         margin-right: 0;
         margin-left: 0;
     }
-    .language ul li{
+    .language ul li {
         margin-left: 0;
         margin-right: 6px;
     }
-    .language ul li::after{
+    .language ul li::after {
         margin-right: 0;
         margin-left: 3px;
     }
-    .experience .project-name span{
+    .experience .project-name span {
         margin-right: 0;
         margin-left: 8px;
     }
-    .experience .experience-wrapper > li{
+    .experience .experience-wrapper>li {
         border-right-width: 0;
         border-left: 2px solid var(--blue-color);
         padding-right: 0;
         padding-left: 20px;
     }
-    .experience .experience-wrapper > li::before{
+    .experience .experience-wrapper>li::before {
         right: unset;
         left: -6px;
     }
-    .experience .experience-container{
+    .experience .experience-container {
         padding-right: 0;
         padding-left: 4px;
     }
-    .experience .features ul{
+    .experience .features ul {
         padding-right: 0 !important;
         padding-left: 15px !important;
     }
-    .experience .position p{
+    .experience .position p {
         margin: 0 0 0 6px;
     }
-    .experience .technology nav{
+    .experience .technology nav {
         margin: 0 0 0 6px;
     }
-    .experience .sample-url a{
+    .experience .sample-url a {
         margin: 0 0 0 3px;
     }
-    .download-resume-btn{
+    .download-resume-btn {
         right: unset;
         left: 8px;
     }
 }
 @media (max-width: 576px) {
-    :host{
+    :host {
         padding: 51px 0 0 0;
     }
-    .component-container{
+    .component-container {
         padding: 4%;
         box-shadow: none;
     }
 }
 @media print {
-    :host, .component-container{
+    :host, .component-container {
         max-width: 100%;
         padding: 0;
         box-shadow: none;
     }
-    .download-resume-btn{
+    .download-resume-btn {
         display: none;
     }
 }

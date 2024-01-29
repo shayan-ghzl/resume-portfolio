@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "extract-localize": "ng extract-i18n --output-path=./projects/locale-internationalization",
+    "build-localize": "ng build --localize"
   },
   "private": true,
   "dependencies": {

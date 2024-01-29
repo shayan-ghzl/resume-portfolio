@@ -11,7 +11,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">114</context>
+          <context context-type="linenumber">147</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
@@ -22,9 +22,9 @@
           <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5708523666154617670" datatype="html">
-        <source>With three years of experience, I lived and breathed the web.</source>
-        <target>با سه سال تجربه در وب زندگی کردم و نفس کشیدم.</target>  
+      <trans-unit id="1360001626080643785" datatype="html">
+        <source>With four years of experience, I lived and breathed the web.</source>
+        <target>با چهار سال تجربه در وب زندگی کردم و نفس کشیدم.</target>  
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
           <context context-type="linenumber">5</context>
@@ -77,21 +77,73 @@
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
           <context context-type="linenumber">103</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
       </trans-unit>
-      <trans-unit id="689848462277336561" datatype="html">
-        <source>Angular Project</source>
-        <target>پروژه انگولار</target>
+      <trans-unit id="8014638146655062189" datatype="html">
+        <source>Angular UI component library</source>
+        <target>پروژه Angular UI component library</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1592200654835609640" datatype="html">
+        <source>NG Gorilla</source>
+        <target>NG Gorilla</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3018529678919436361" datatype="html">
+        <source>Wordpress template</source>
+        <target>قالب وردپرس</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7284808192480386502" datatype="html">
+        <source>iranian vpn</source>
+        <target>iranian vpn</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="689848462277336561" datatype="html">
+        <source>Angular Project</source>
+        <target>پروژه انگولار</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
           <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">50</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
@@ -102,20 +154,24 @@
           <context context-type="linenumber">83</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">195</context>
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">105</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">292</context>
+          <context context-type="linenumber">244</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">323</context>
+          <context context-type="linenumber">341</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">390</context>
+          <context context-type="linenumber">372</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">406</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2362062793266101400" datatype="html">
@@ -123,11 +179,11 @@
         <target>فورپت</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">42</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">389</context>
+          <context context-type="linenumber">405</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8931401014279386176" datatype="html">
@@ -135,11 +191,11 @@
         <target>راپ یدک</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">31</context>
+          <context context-type="linenumber">53</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">322</context>
+          <context context-type="linenumber">371</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1074943705597922594" datatype="html">
@@ -147,19 +203,11 @@
         <target>قالب وبسایت</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">64</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">97</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3018529678919436361" datatype="html">
-        <source>Wordpress template</source>
-        <target>قالب وردپرس</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">146</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8295938584906943991" datatype="html">
@@ -167,11 +215,11 @@
         <target>فن پت</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">53</context>
+          <context context-type="linenumber">75</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">129</context>
+          <context context-type="linenumber">178</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3664269668030487360" datatype="html">
@@ -179,15 +227,19 @@
         <target>نمونه پروژه دردسترس نیست</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">57</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
           <context context-type="linenumber">79</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">100</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">133</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3592302046925344382" datatype="html">
@@ -195,11 +247,11 @@
         <target>حسابداری خرچنگ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">64</context>
+          <context context-type="linenumber">86</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">194</context>
+          <context context-type="linenumber">243</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9094885001056365067" datatype="html">
@@ -207,19 +259,15 @@
         <target>پروژه Angular Library</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">72</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
           <context context-type="linenumber">94</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">357</context>
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">116</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">425</context>
+          <context context-type="linenumber">441</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8442573528892316097" datatype="html">
@@ -227,7 +275,7 @@
         <target>پکیج منو در انگولار</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">75</context>
+          <context context-type="linenumber">97</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5188367131374871473" datatype="html">
@@ -235,11 +283,11 @@
         <target>مدیریت بایگانی</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">86</context>
+          <context context-type="linenumber">108</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">291</context>
+          <context context-type="linenumber">340</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8167033872717371267" datatype="html">
@@ -247,11 +295,7 @@
         <target>پکیج تایپ سریع تاریخ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">97</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">356</context>
+          <context context-type="linenumber">119</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6333063843650819663" datatype="html">
@@ -259,11 +303,15 @@
         <target>پروژه Ionic</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">105</context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">138</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">229</context>
+          <context context-type="linenumber">278</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1841536031412289931" datatype="html">
@@ -271,7 +319,15 @@
         <target>3 صوت یدک</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">108</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="166589683718302696" datatype="html">
+        <source>Nano tech</source>
+        <target>نانو تک</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
+          <context context-type="linenumber">141</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3932879822602209148" datatype="html">
@@ -279,35 +335,31 @@
         <target>درباره من</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">116</context>
+          <context context-type="linenumber">149</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4649668937181966117" datatype="html">
-        <source>About 3 years of experience in creating beautiful and responsive user interfaces for mobile/tablet/desktop using HTML, CSS, SCSS, JavaScript, jQuery, Bootstrap and building single page applications (SPA) and multi-platform websites with Using Responsive/RWD design and Angular framework.</source>
-        <target>حدود 3 سال تجربه در ایجاد رابط های کاربری زیبا و واکنش گرا برای موبایل/تبلت/دسکتاپ با استفاده از HTML, CSS, Scss, JavaScript, jQuery, Bootstrap و ساخت اپلیکیشن های تک صفحه ای (SPA) و وب سایت های چند پلتفرمی با استفاده از طراحی Responsive/RWD و Angular framework.</target>
+      <trans-unit id="7295144861336234919" datatype="html">
+        <source>About four years of experience in creating beautiful and responsive user interfaces for mobile/tablet/desktop using HTML, CSS, SCSS, JavaScript, jQuery, Bootstrap and building single page applications (SPA) and multi-platform websites with Using Responsive/RWD design and Angular framework.</source>
+        <target>حدود 4 سال تجربه در ایجاد رابط های کاربری زیبا و واکنش گرا برای موبایل/تبلت/دسکتاپ با استفاده از HTML, CSS, Scss, JavaScript, jQuery, Bootstrap و ساخت اپلیکیشن های تک صفحه ای (SPA) و وب سایت های چند پلتفرمی با استفاده از طراحی Responsive/RWD و Angular framework.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">118</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">29</context>
+          <context context-type="linenumber">151</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7589849346249998523" datatype="html">
-        <source>Experience working as a contributor in other Angular repositories also has a few pull requests in other repositories like Primeng.</source>
-        <target>تجربه کار به عنوان یک مشارکت کننده در دیگر پروژه های Angular نیز دارای چند pull request در پروژه های دیگر مانند Primeng است.</target>
+        <source>Experience working as a contributor in other Angular repositories like Primeng.</source>
+        <target>تجربه کار به عنوان یک مشارکت کننده در پروژه Primeng و سایر پروژه های انگولاری.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">119</context>
+          <context context-type="linenumber">152</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">30</context>
+          <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2230089435934388252" datatype="html">
@@ -315,11 +367,11 @@
         <target>تجربه کار با RESTFUL APIS.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">120</context>
+          <context context-type="linenumber">153</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">31</context>
+          <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1375232346606240966" datatype="html">
@@ -327,11 +379,11 @@
         <target>درک عمیق و مهارت در HTML، CSS، Bootstrap، JavaScript و Typescript.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">121</context>
+          <context context-type="linenumber">154</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">32</context>
+          <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="492392229640778739" datatype="html">
@@ -339,11 +391,11 @@
         <target>توانایی های بین فردی عالی، مهارت های ارتباطی، مدیریت زمان و مهارت های تیمی.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">122</context>
+          <context context-type="linenumber">155</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">33</context>
+          <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6664552719064221243" datatype="html">
@@ -351,7 +403,7 @@
         <target>ارتباط</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">126</context>
+          <context context-type="linenumber">159</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
@@ -363,7 +415,7 @@
         <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;dashicons dashicons-location&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>اصفهان, ایران</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/home/home.component.html</context>
-          <context context-type="linenumber">130</context>
+          <context context-type="linenumber">163</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
@@ -402,12 +454,52 @@
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="7256175647023216237" datatype="html">
+        <source>About 4 years of experience in creating beautiful and responsive user interfaces for mobile/tablet/desktop using HTML, CSS, SCSS, JavaScript, jQuery, Bootstrap and building single page applications (SPA) and multi-platform websites with Using Responsive/RWD design and Angular framework.</source>
+        <target>حدود 4 سال تجربه در ایجاد رابط های کاربری زیبا و واکنش گرا برای موبایل/تبلت/دسکتاپ با استفاده از HTML, CSS, Scss, JavaScript, jQuery, Bootstrap و ساخت اپلیکیشن های تک صفحه ای (SPA) و وب سایت های چند پلتفرمی با استفاده از طراحی Responsive/RWD و Angular framework.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3712033072595620579" datatype="html">
+        <source>Experience working as a contributor in Primeng and other Angular repositories.</source>
+        <target>تجربه کار به عنوان یک مشارکت کننده در Primeng و دیگر پروژه های Angular.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8054320371528571542" datatype="html">
+        <source>Also have experience in php, java and asp .net core.</source>
+        <target>همچنین دارای تجربه کار با زبان های php, java, asp .net core را نیز دارم.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6858188630870183590" datatype="html">
+        <source>ACHIEVEMENTS</source>
+        <target>دستاوردها</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4425496290857042718" datatype="html">
+        <source>As a contributor in Primeng <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/primefaces/primeng/pull/13647&quot; target=&quot;_blank&quot;&gt;"/>repository on github<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <target>به عنوان یک مشارکت کننده در پروژه Primeng</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="260322666178239231" datatype="html">
         <source>SKILLS</source>
         <target>مهارت ها</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">37</context>
+          <context context-type="linenumber">48</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3482723572835834480" datatype="html">
@@ -415,15 +507,31 @@
         <target>تحصیلات</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">60</context>
+          <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4324907560840488931" datatype="html">
-        <source>Associate in Hardware engineering<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;academy&quot;&gt;"/>Najafabad azad university<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+      <trans-unit id="7975553919027904616" datatype="html">
+        <source>Bachelor degree in computer science <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;academy&quot;&gt;"/>Dolatabad azad university<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target>کارشناسی در رشته علوم کامپیوتر <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;academy&quot;&gt;"/>دانشگاه آزاد دولت آباد<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4522459814163087914" datatype="html">
+        <source>Sep 2021 - May 2023</source>
+        <target>مهر 1400 - خرداد 1402</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6707433273874702550" datatype="html">
+        <source>Associate in Hardware engineering <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;academy&quot;&gt;"/>Najafabad azad university<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
         <target>کاردانی در رشته کامپیوتر گرایش سخت افزار <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;academy&quot;&gt;"/>دانشگاه آزاد نجف آباد<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">64</context>
+          <context context-type="linenumber">81</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4674241834871212639" datatype="html">
@@ -431,7 +539,7 @@
         <target>مهر 1391 - خرداد 1395</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">65</context>
+          <context context-type="linenumber">82</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6286345520172056995" datatype="html">
@@ -439,7 +547,7 @@
         <target>زبان</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">71</context>
+          <context context-type="linenumber">88</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2040200957357572861" datatype="html">
@@ -447,31 +555,23 @@
         <target>تجربیات</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">89</context>
+          <context context-type="linenumber">106</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7357270148954676364" datatype="html">
-        <source>Timche Zargary</source>
-        <target>تیمچه زرگری</target>
+      <trans-unit id="3865982767035400814" datatype="html">
+        <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://shayan-ghzl.github.io/ng-gorilla&quot;&gt;"/>https://shayan-ghzl.github.io/ng-gorilla<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/shayan-ghzl/ng-gorilla&quot;&gt;"/>https://github.com/shayan-ghzl/ng-gorilla<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>       
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">96</context>
+          <context context-type="linenumber">116</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4049656284200448182" datatype="html">
-        <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/shayan-ghzl/timche&quot;&gt;"/>https://github.com/shayan-ghzl/timche<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/shayan-ghzl/timche&quot;&gt;"/>https://github.com/shayan-ghzl/timche<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>       
+      <trans-unit id="1853156156385904931" datatype="html">
+        <source>September 2023</source>
+        <target>مهر 1402</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">99</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8129293156529212014" datatype="html">
-        <source>September 2020</source>
-        <target>مهر 1399</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">102</context>
+          <context context-type="linenumber">119</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1930262700411175313" datatype="html">
@@ -479,399 +579,35 @@
         <target>اصفهان, ایران</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">103</context>
+          <context context-type="linenumber">120</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">136</context>
+          <context context-type="linenumber">152</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">169</context>
+          <context context-type="linenumber">185</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">201</context>
+          <context context-type="linenumber">218</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">235</context>
+          <context context-type="linenumber">250</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">266</context>
+          <context context-type="linenumber">284</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">298</context>
+          <context context-type="linenumber">315</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">329</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">363</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">396</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">432</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7299791827728276418" datatype="html">
-        <source>This is an HTML template for a jewelry online shop.</source>
-        <target>یک قالب وب سایت است برای فروشگاه آنلاین طلا و جواهر.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">107</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1788679697899121649" datatype="html">
-        <source>this is a full responsive website template.</source>
-        <target>این یک قالب وب سایت کاملا واکنش گرا است.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">111</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">144</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">178</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4200939925497489183" datatype="html">
-        <source>it is using swiper.js as a library for touch sliders.</source>
-        <target>از swiper.js به عنوان کتابخانه ای برای اسلایدر های لمسی بهره میگیرد.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">112</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8973622147075096277" datatype="html">
-        <source>it is also using Gulp automation to compile Scss.</source>
-        <target>همچنین از Gulp automation برای کامپایل کردن Scss بهره میگیرد.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">113</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6224914737384833644" datatype="html">
-        <source>position :</source>
-        <target>سمت :</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">117</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">150</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">182</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">216</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">247</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">279</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">310</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">344</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">377</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">412</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">447</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1822764784365383789" datatype="html">
-        <source>Front-end developer, HTML template builder in raapco organization</source>
-        <target>توسعه دهنده Front-end، سازنده قالب وبسایت در سازمان raapco.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">118</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2415952768845951158" datatype="html">
-        <source>technology :</source>
-        <target>تکنولوژی :</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">121</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">154</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">186</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">220</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">251</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">283</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">314</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">348</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">381</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">416</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">451</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6615269953470390772" datatype="html">
-        <source>Wordpress Template</source>
-        <target>قالب وردپرس</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">130</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1942995419281974035" datatype="html">
-        <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com/fanpet/&quot;&gt;"/>http://safaeinuts.com/fanpet/<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com/fanpet/&quot;&gt;"/>http://safaeinuts.com/fanpet/<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">132</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4529690464991888626" datatype="html">
-        <source>January 2021</source>
-        <target>دی 1399</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">135</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5459553065793377918" datatype="html">
-        <source>This is a Wordpress website for a pet supply online shop.</source>
-        <target>یک سایت وردپرس برای فروشگاه آنلاین لوازم حیوانات خانگی است.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">140</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="705027862467677027" datatype="html">
-        <source>it is using Typescript.</source>
-        <target>از Typescript بهره میگیرد.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">145</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="433933739218006734" datatype="html">
-        <source>it is also using Gulp automation to compile Scss and Typescript.</source>
-        <target>همچنین از Gulp automation برای کامپایل کردن Scss و Typescript بهره میگیرد.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">146</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="7770204115391498721" datatype="html">
-        <source>Wordpress template developer, UI/UX designer in raapco organization</source>
-        <target>توسعه دهنده قالب وردپرس, طراح UI/UX در سازمان raapco.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">151</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2782521454039653474" datatype="html">
-        <source>Safaei Nuts</source>
-        <target>آجیل صفایی</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">162</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1267541015707802214" datatype="html">
-        <source>Wordpress Project</source>
-        <target>پروژه وردپرس</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">163</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3987359187709743420" datatype="html">
-        <source>Project Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com&quot;&gt;"/>http://safaeinuts.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>لینک پروژه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com&quot;&gt;"/>http://safaeinuts.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">165</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1112843601973335114" datatype="html">
-        <source>March 2021</source>
-        <target>اسفند 1399</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">168</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2289623662716903573" datatype="html">
-        <source>This is a Wordpress website for a grocery online shop.</source>
-        <target>یک وبسایت وردپرس برای فروشگاه آنلاین آجیل صفایی است.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">173</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4955229321806600843" datatype="html">
-        <source>The images in the blog and product images of this website were created by me as a graphic designer.</source>
-        <target>تصاویر وبلاگ و تصاویر محصولات این وب سایت توسط من به عنوان یک طراح گرافیک ایجاد شده است.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">174</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4298954778785609640" datatype="html">
-        <source>Wordpress Front-end developer in raapco organization</source>
-        <target>توسعه دهنده وردپرس در سازمان raapco.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">183</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4371794753019919544" datatype="html">
-        <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/resume&quot;&gt;"/>Not available<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/resume&quot;&gt;"/>Not available<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">197</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">231</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">262</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">294</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4192916259188412161" datatype="html">
-        <source>April 2021 - May 2023<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>(2 years and a month)<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
-        <target>فروردین 1400 - اردیبهشت 1402 <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>(2 سال و یک ماه)<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">200</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2548328457588804428" datatype="html">
-        <source>Kharchang is an online accounting and business management system powered by Angular framework and Primeng components.</source>
-        <target>خرچنگ یک سیستم حسابداری و مدیریت کسب و کار آنلاین است که از Angular framework و کامپوننت های Primeng بهره میگیرد.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">205</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6519521081198788925" datatype="html">
-        <source>We worked on this project for over two years, and i was with the project from the beginning to the end.</source>
-        <target>ما بیش از دو سال روی این پروژه کار کردیم و من از ابتدا تا انتها با پروژه همراه بودم.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">206</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8454591934505195812" datatype="html">
-        <source>Sometimes I had to make changes in Primeng components and I also have several pull requests in the Primeng project on github and during this project I went through various challenges in Angular.</source>
-        <target>گاهی مجبور بودم در کامپوننت های Primeng تغییراتی ایجاد کنم و همچنین چند pull request در پروژه Primeng در github دارم و در طول این پروژه چالش های مختلفی را در Angular پشت سر گذاشتم.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">207</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4735196992396300120" datatype="html">
-        <source>it is using NGRX effects and store as a state manager.</source>
-        <target>از کتابخانه NGRX به عنوان state manager در انگولار بهره میگیرد.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">211</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">339</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="1775970094702641526" datatype="html">
-        <source>authenticate users using sms otp code.</source>
-        <target>اهراز هویت کاربر با استفاده از کد پیامکی.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">212</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">338</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">405</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5627762772014463976" datatype="html">
-        <source>Angular Developer in raapco organization</source>
-        <target>توسعه دهنده انگولار در سازمان raapco.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">217</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">248</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">345</context>
+          <context context-type="linenumber">347</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
@@ -879,11 +615,427 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">413</context>
+          <context context-type="linenumber">412</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
           <context context-type="linenumber">448</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8923850931296954461" datatype="html">
+        <source>ng-gorilla is a UI component library for Angular developers (<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://medium.com/@shayan97.tti/angular-material-file-input-using-ng-gorilla-c2951a15c469&quot; target=&quot;_blank&quot;&gt;"/>link to medium article<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>).</source>
+        <target>ng-gorilla کتابخانه ای انگولاری است شامل مجموعه ای از کامپوننت ها برای توسعه دهنده های انگولار  (<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://medium.com/@shayan97.tti/angular-material-file-input-using-ng-gorilla-c2951a15c469&quot; target=&quot;_blank&quot;&gt;"/>لینک مقاله در medium.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>).</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4176511528125170557" datatype="html">
+        <source>it offers pre-built components, developers can spend less time writing codes and more time focusing on building functionality.</source>
+        <target>مجموعه ای از کامپوننت های آماده و نوشته شده با کیفیت کد بالا برای توسعه دهندگان تا زمان کمتری روی توسعه کد بگذارند.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3069362780759291634" datatype="html">
+        <source>it focuses on filling gap between angular material components and other scenarios like file-input and so on.</source>
+        <target>تمرکز آن بر پر کردن شکاف بین کامپوننت های انگولار و سایر سناریو ها می باشد همچون file-input و غیره ... </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6224914737384833644" datatype="html">
+        <source>position :</source>
+        <target>سمت :</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">199</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">231</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">265</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">296</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">328</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">359</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">393</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">428</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">463</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1207013533727336506" datatype="html">
+        <source>Angular developer, As an Angular project freelancer</source>
+        <target>به عنوان یک پروژه شخصی در توسعه انگولار</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2415952768845951158" datatype="html">
+        <source>technology :</source>
+        <target>تکنولوژی :</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">137</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">170</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">235</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">269</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">300</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">332</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">363</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">397</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">432</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">467</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7357270148954676364" datatype="html">
+        <source>Timche Zargary</source>
+        <target>تیمچه زرگری</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4049656284200448182" datatype="html">
+        <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/shayan-ghzl/timche&quot;&gt;"/>https://github.com/shayan-ghzl/timche<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/shayan-ghzl/timche&quot;&gt;"/>https://github.com/shayan-ghzl/timche<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8129293156529212014" datatype="html">
+        <source>September 2020</source>
+        <target>مهر 1399</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7299791827728276418" datatype="html">
+        <source>This is an HTML template for a jewelry online shop.</source>
+        <target>یک قالب وب سایت است برای فروشگاه آنلاین طلا و جواهر.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1788679697899121649" datatype="html">
+        <source>this is a full responsive website template.</source>
+        <target>این یک قالب وب سایت کاملا واکنش گرا است.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">193</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">227</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4200939925497489183" datatype="html">
+        <source>it is using swiper.js as a library for touch sliders.</source>
+        <target>از swiper.js به عنوان کتابخانه ای برای اسلایدر های لمسی بهره میگیرد.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8973622147075096277" datatype="html">
+        <source>it is also using Gulp automation to compile Scss.</source>
+        <target>همچنین از Gulp automation برای کامپایل کردن Scss بهره میگیرد.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1822764784365383789" datatype="html">
+        <source>Front-end developer, HTML template builder in raapco organization</source>
+        <target>توسعه دهنده Front-end، سازنده قالب وبسایت در سازمان raapco.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6615269953470390772" datatype="html">
+        <source>Wordpress Template</source>
+        <target>قالب وردپرس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1942995419281974035" datatype="html">
+        <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com/fanpet/&quot;&gt;"/>http://safaeinuts.com/fanpet<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com/fanpet&quot;&gt;"/>http://safaeinuts.com/fanpet<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">181</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4529690464991888626" datatype="html">
+        <source>January 2021</source>
+        <target>دی 1399</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5459553065793377918" datatype="html">
+        <source>This is a Wordpress website for a pet supply online shop.</source>
+        <target>یک سایت وردپرس برای فروشگاه آنلاین لوازم حیوانات خانگی است.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="705027862467677027" datatype="html">
+        <source>it is using Typescript.</source>
+        <target>از Typescript بهره میگیرد.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="433933739218006734" datatype="html">
+        <source>it is also using Gulp automation to compile Scss and Typescript.</source>
+        <target>همچنین از Gulp automation برای کامپایل کردن Scss و Typescript بهره میگیرد.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">195</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7770204115391498721" datatype="html">
+        <source>Wordpress template developer, UI/UX designer in raapco organization</source>
+        <target>توسعه دهنده قالب وردپرس, طراح UI/UX در سازمان raapco.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2782521454039653474" datatype="html">
+        <source>Safaei Nuts</source>
+        <target>آجیل صفایی</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">211</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1267541015707802214" datatype="html">
+        <source>Wordpress Project</source>
+        <target>پروژه وردپرس</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">212</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3987359187709743420" datatype="html">
+        <source>Project Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com&quot;&gt;"/>http://safaeinuts.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target>لینک پروژه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;http://safaeinuts.com&quot;&gt;"/>http://safaeinuts.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1112843601973335114" datatype="html">
+        <source>March 2021</source>
+        <target>اسفند 1399</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">217</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2289623662716903573" datatype="html">
+        <source>This is a Wordpress website for a grocery online shop.</source>
+        <target>یک وبسایت وردپرس برای فروشگاه آنلاین آجیل صفایی است.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">222</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4955229321806600843" datatype="html">
+        <source>The images in the blog and product images of this website were created by me as a graphic designer.</source>
+        <target>تصاویر وبلاگ و تصاویر محصولات این وب سایت توسط من به عنوان یک طراح گرافیک ایجاد شده است.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">223</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4298954778785609640" datatype="html">
+        <source>Wordpress Front-end developer in raapco organization</source>
+        <target>توسعه دهنده وردپرس در سازمان raapco.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">232</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4371794753019919544" datatype="html">
+        <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/resume&quot;&gt;"/>Not available<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/resume&quot;&gt;"/>Not available<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">246</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">280</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">311</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">343</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4192916259188412161" datatype="html">
+        <source>April 2021 - May 2023<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>(2 years and a month)<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target>فروردین 1400 - اردیبهشت 1402 <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>(2 سال و یک ماه)<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">249</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2548328457588804428" datatype="html">
+        <source>Kharchang is an online accounting and business management system powered by Angular framework and Primeng components.</source>
+        <target>خرچنگ یک سیستم حسابداری و مدیریت کسب و کار آنلاین است که از Angular framework و کامپوننت های Primeng بهره میگیرد.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">254</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6519521081198788925" datatype="html">
+        <source>We worked on this project for over two years, and i was with the project from the beginning to the end.</source>
+        <target>ما بیش از دو سال روی این پروژه کار کردیم و من از ابتدا تا انتها با پروژه همراه بودم.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">255</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8454591934505195812" datatype="html">
+        <source>Sometimes I had to make changes in Primeng components and I also have several pull requests in the Primeng project on github and during this project I went through various challenges in Angular.</source>
+        <target>گاهی مجبور بودم در کامپوننت های Primeng تغییراتی ایجاد کنم و همچنین چند pull request در پروژه Primeng در github دارم و در طول این پروژه چالش های مختلفی را در Angular پشت سر گذاشتم.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4735196992396300120" datatype="html">
+        <source>it is using NGRX effects and store as a state manager.</source>
+        <target>از کتابخانه NGRX به عنوان state manager در انگولار بهره میگیرد.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">260</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">388</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1775970094702641526" datatype="html">
+        <source>authenticate users using sms otp code.</source>
+        <target>اهراز هویت کاربر با استفاده از کد پیامکی.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">261</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">387</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">421</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5627762772014463976" datatype="html">
+        <source>Angular Developer in raapco organization</source>
+        <target>توسعه دهنده انگولار در سازمان raapco.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">266</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">297</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">394</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">429</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">464</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6167324850698647430" datatype="html">
@@ -891,7 +1043,7 @@
         <target>3 صوت یدک</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">228</context>
+          <context context-type="linenumber">277</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4399636819373147508" datatype="html">
@@ -899,7 +1051,7 @@
         <target>تیر 1400</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">234</context>
+          <context context-type="linenumber">283</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7664420043188246294" datatype="html">
@@ -907,7 +1059,7 @@
         <target>این یک پروژه Ionic و همچنین یک استارتاپ در حوزه خدمات و اطلاعات خودرو می باشد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">239</context>
+          <context context-type="linenumber">288</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3246113929152312068" datatype="html">
@@ -915,7 +1067,7 @@
         <target>از framework Ionic برای تولید اپلیکیشن های هیبرید بهره میگیرد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">243</context>
+          <context context-type="linenumber">292</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8562614847786845645" datatype="html">
@@ -923,7 +1075,7 @@
         <target>ربات تلگرام ایردراپ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">259</context>
+          <context context-type="linenumber">308</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1881274742144033485" datatype="html">
@@ -931,7 +1083,7 @@
         <target>ربات ساده تلگرام</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">260</context>
+          <context context-type="linenumber">309</context>
         </context-group>
       </trans-unit>
       <trans-unit id="533001003671195347" datatype="html">
@@ -939,7 +1091,7 @@
         <target>آبان 1400</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">265</context>
+          <context context-type="linenumber">314</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9143865820559555171" datatype="html">
@@ -947,7 +1099,7 @@
         <target>یک ربات ساده که از جاوا اسکریپت و Nodejs جهت توزیع توکن های یک آژانس بهره میگیرد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">270</context>
+          <context context-type="linenumber">319</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1750163699555678337" datatype="html">
@@ -955,7 +1107,7 @@
         <target>یک ربات ساده پرسش و پاسخ تگرامی است.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">271</context>
+          <context context-type="linenumber">320</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7266464629648624341" datatype="html">
@@ -963,7 +1115,7 @@
         <target>از Nodejs و کتابخانه Telegraf بهره میگیرد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">275</context>
+          <context context-type="linenumber">324</context>
         </context-group>
       </trans-unit>
       <trans-unit id="734671253737270499" datatype="html">
@@ -971,7 +1123,7 @@
         <target>به عنوان یک فریلنسر جاوا اسکریپت</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">280</context>
+          <context context-type="linenumber">329</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6670522685625752181" datatype="html">
@@ -979,7 +1131,7 @@
         <target>بهمن 1400</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">297</context>
+          <context context-type="linenumber">346</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6383792468272428558" datatype="html">
@@ -987,7 +1139,7 @@
         <target>یک پروژه انگولار برای یک آژانس جهت مدیریت بایگانی ها می باشد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">302</context>
+          <context context-type="linenumber">351</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6260766398712123006" datatype="html">
@@ -995,7 +1147,7 @@
         <target>از فرم های انگولار و کتابخانه Angular Material بهره میگیرد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">306</context>
+          <context context-type="linenumber">355</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5437578302076921010" datatype="html">
@@ -1003,15 +1155,15 @@
         <target>به عنوان یک فریلنسر پروژه Angular</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">311</context>
+          <context context-type="linenumber">360</context>
         </context-group>
       </trans-unit>
       <trans-unit id="136058071201076944" datatype="html">
         <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://shayan-ghzl.github.io/raap-angular/&quot;&gt;"/>https://shayan-ghzl.github.io/raap-angular/<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://shayan-ghzl.github.io/raap-angular/&quot;&gt;"/>https://shayan-ghzl.github.io/raap-angular/<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/resume&quot;&gt;"/>Not available<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">325</context>
+          <context context-type="linenumber">374</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2501584342851173346" datatype="html">
@@ -1019,7 +1171,7 @@
         <target>مرداد 1401</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">328</context>
+          <context context-type="linenumber">377</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2653363090870999877" datatype="html">
@@ -1027,7 +1179,7 @@
         <target>یک وب اپلیکیشن انگولار برای فروشگاه آنلاین لوازم خودرو می باشد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">333</context>
+          <context context-type="linenumber">382</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4582094032908913314" datatype="html">
@@ -1035,11 +1187,11 @@
         <target>درخواست ها را درون IndexedDB ذخیره و cache می نماید.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">337</context>
+          <context context-type="linenumber">386</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">404</context>
+          <context context-type="linenumber">420</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8229045877952138165" datatype="html">
@@ -1047,75 +1199,15 @@
         <target>از کتابخانه Angular Material و Cdk بهره میگیرد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">340</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="6342720148184504572" datatype="html">
-        <source>Project Url:<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://www.npmjs.com/package/fast-date-typing&quot;&gt;"/>https://www.npmjs.com/package/fast-date-typing<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>لینک پروژه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://www.npmjs.com/package/fast-date-typing&quot;&gt;"/>https://www.npmjs.com/package/fast-date-typing<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">359</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4217665451335670949" datatype="html">
-        <source>November 2022</source>
-        <target>آبان 1401</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">362</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="8163614989358887744" datatype="html">
-        <source>This is a Npm package which made by Angular library.</source>
-        <target>یک پکیج Npm می باشد که به واسطه Angular Library ایجاد شده است.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">367</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">436</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4887869656013109235" datatype="html">
-        <source>For those businesses (accounting and numerical calculations) who want to enter the date through a fast keyboard.</source>
-        <target>برای آن دسته از مشاغل (حسابداری و محاسبات عددی) که می خواهند تاریخ را از طریق صفحه کلید سریع وارد کنند.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">368</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="43817476067434107" datatype="html">
-        <source>This library is actually written for use in the kharchang accounting project.</source>
-        <target>این کتابخانه در واقع برای استفاده در پروژه حسابداری خرچنگ نوشته شده است.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">369</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">437</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="2885735033521453548" datatype="html">
-        <source>well documented Npm package.</source>
-        <target>مستندات آن به خوبی و کامل نوشته شده است.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">373</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">441</context>
+          <context context-type="linenumber">389</context>
         </context-group>
       </trans-unit>
       <trans-unit id="587810336767463800" datatype="html">
         <source>Project Sample Url :<x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://shayan-ghzl.github.io/forpet-angular/&quot;&gt;"/>https://shayan-ghzl.github.io/forpet-angular/<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://shayan-ghzl.github.io/forpet-angular/&quot;&gt;"/>https://shayan-ghzl.github.io/forpet-angular/<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <target>لینک نمونه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/resume&quot;&gt;"/>Not available<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">392</context>
+          <context context-type="linenumber">408</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3925013385907934586" datatype="html">
@@ -1123,7 +1215,7 @@
         <target>فروردین 1402</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">395</context>
+          <context context-type="linenumber">411</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6676777313448781816" datatype="html">
@@ -1131,7 +1223,7 @@
         <target>یک پروژه وب اپلیکیشن انگولار برای فروشگاه آنلاین لوازم حیوانات خانگی است.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">400</context>
+          <context context-type="linenumber">416</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1560399440769281614" datatype="html">
@@ -1139,7 +1231,7 @@
         <target>از rxjs subjects به عنوان state manager در انگولار بهره میگیرد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">406</context>
+          <context context-type="linenumber">422</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6357890806116901701" datatype="html">
@@ -1147,7 +1239,7 @@
         <target>از کتابخانه Angular Material بهره میگیرد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">407</context>
+          <context context-type="linenumber">423</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8923562877328398914" datatype="html">
@@ -1155,7 +1247,7 @@
         <target>همچنین یک fake api نیز دارد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">408</context>
+          <context context-type="linenumber">424</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7897671703552451831" datatype="html">
@@ -1163,7 +1255,7 @@
         <target>پکیج منو در انگولار</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">424</context>
+          <context context-type="linenumber">440</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4722356486135090363" datatype="html">
@@ -1171,7 +1263,7 @@
         <target>لینک پروژه: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; href=&quot;https://www.npmjs.com/package/ng-wordpress-menu&quot;&gt;"/>https://www.npmjs.com/package/ng-wordpress-menu<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">427</context>
+          <context context-type="linenumber">443</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5682453054483006774" datatype="html">
@@ -1179,7 +1271,31 @@
         <target>اردیبهشت 1402</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">431</context>
+          <context context-type="linenumber">447</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8163614989358887744" datatype="html">
+        <source>This is a Npm package which made by Angular library.</source>
+        <target>یک پکیج Npm می باشد که به واسطه Angular Library ایجاد شده است.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">452</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="43817476067434107" datatype="html">
+        <source>This library is actually written for use in the kharchang accounting project.</source>
+        <target>این کتابخانه در واقع برای استفاده در پروژه حسابداری خرچنگ نوشته شده است.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">453</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2885735033521453548" datatype="html">
+        <source>well documented Npm package.</source>
+        <target>مستندات آن به خوبی و کامل نوشته شده است.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
+          <context context-type="linenumber">457</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4218107313394623300" datatype="html">
@@ -1187,7 +1303,7 @@
         <target>از چند تم مختلف رنگی پشتیبانی میکند.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">442</context>
+          <context context-type="linenumber">458</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6699884856027603937" datatype="html">
@@ -1195,7 +1311,7 @@
         <target>یک منو با قابلیت مقیاس پذیری می باشد.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">443</context>
+          <context context-type="linenumber">459</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1350905900955347264" datatype="html">
@@ -1203,7 +1319,7 @@
         <target>./assets/pdf/shayan-ghazali-resume-fa.pdf</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">459</context>
+          <context context-type="linenumber">475</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5383381938139177481" datatype="html">
@@ -1211,7 +1327,7 @@
         <target>دانلود رزومه</target>
         <context-group purpose="location">
           <context context-type="sourcefile">projects/apps/resume-portfolio/src/app/resume/resume.component.html</context>
-          <context context-type="linenumber">459</context>
+          <context context-type="linenumber">475</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7182974689040833178" datatype="html">
